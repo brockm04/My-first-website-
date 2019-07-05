@@ -1,17 +1,18 @@
 body {
-font-family: 'Saira', sans-serif;
+      font-family: 'Saira', sans-serif;
+  font-weight: 700;
+	color:blue;   
 }
+
 h6,
 h5,
 h4,
 h3,
 h2,
 h1 {
-font-family: 'Orbitron', sans-serif;
-}
-	
-	
-	
-	
-
-
+     font-family: 'Orbitron', sans-serif;
+     font-weight: 500;
+	}
+		
+.container-fluid {background-color:red;}
+.container {background-color:blue;}

@@ -1,0 +1,22 @@
+body {
+      font-family: 'Saira', sans-serif;
+  font-weight: 700;
+	color:black;   
+}
+
+h6,
+h5,
+h4,
+h3,
+h2,
+h1 {
+     font-family: 'Orbitron', sans-serif;
+     font-weight: 500;
+}
+.navbar-brand img {width:150px}
+
+#footer {background-color:yellow;} 
+
+#lowerfooter {background-color:black;}
+
+#lowerfooter i {font-size:60px;color:#fff;margin:32px 24px 16px 8px} 

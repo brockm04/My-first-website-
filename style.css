@@ -16,3 +16,16 @@ h1 {
 .navbar-brand img {width:150px}
 
 #footer {background-color:yellow;} 
+
+#lowerfooter {background-color:black;}
+
+#lowerfooter i {font-size:60px;color:#fff;margin:32px 24px 16px 8px} 
+
+.memberBenefits i {font-size:200px;color:#C00D19;}
+.memberBenefits p {font-size:24px;color:#F1E9E1;margin-top:12px}
+.mBBox {background-color:#34AE42;padding:15px;border-radius:15px}
+
+.pBox{}
+.pBox img {z-index:-1}
+.pBox button {z-index:2;position:absolute;right:40%}
+.pBox button:hover {}

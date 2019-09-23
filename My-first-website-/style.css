@@ -29,3 +29,6 @@ h1 {
 .pBox img {z-index:-1}
 .pBox button {z-index:2;position:absolute;right:40%}
 .pBox button:hover {}
+
+.row1 {font-size:32px;color:#954A16}
+.row2 { font-size:60px;color:#EFC439}
